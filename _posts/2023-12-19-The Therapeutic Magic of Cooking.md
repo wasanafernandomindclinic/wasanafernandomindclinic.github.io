@@ -10,11 +10,12 @@ author: Wasana Fernando
 
 The Therapeutic Magic of Cooking: Nourishing Mind, Body, and Soul.
 
-<a href="https://www.linkedin.com/in/wasana-fernando-37870295/" target="_blank">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQGNxrYyaj4sKQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1675773096993?e=1750896000&v=beta&t=QMxNWDG-LjlabMxd6Kkszb2B0yh0u9aE-RMgKn9Qr3U" alt="Wasana Fernando" width="50" height="50">
-</a>
-
-[**Wasana Fernando**](https://www.linkedin.com/in/wasana-fernando-37870295/)
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/wasana-fernando-37870295/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQGNxrYyaj4sKQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1675773096993?e=1750896000&v=beta&t=QMxNWDG-LjlabMxd6Kkszb2B0yh0u9aE-RMgKn9Qr3U" alt="Wasana Fernando" width="50" height="50" style="border-radius: 50%; margin-right: 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/wasana-fernando-37870295/" target="_blank" style="font-weight: bold;">Wasana Fernando</a>
+</div>
 
 December 19, 2023
 
