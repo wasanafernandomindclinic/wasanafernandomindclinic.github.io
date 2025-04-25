@@ -16,10 +16,10 @@ timezone:
 
 title: Wasana Fernando # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Healing minds, one story at a time. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  I'm a Clinical Psychology M.Phil. candidate at the University of Colombo, passionate about supporting children, adolescents, and adults through compassionate, evidence-based care. I work across hospital, community, and special education settings, blending clinical insight with mindfulness and creativity. Beyond my practice, I find joy in cooking, writing, and nurturing emotional wellness in everyday life
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: U W L Fernando
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
