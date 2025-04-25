@@ -1,3 +1,10 @@
+---
+title: The Therapeutic Magic of Cooking, Nourishing Mind, Body, and Soul.
+date: 2023-12-19 20:14 +0300
+categories: [Blogging, ClinicalPsychology, SriLanka]
+tags: [blog, Psychology, MentalHealth,role, cooking]
+author: Wasana Fernando
+---
 
 ![Desktop View](assets/1702958374444.jpg)
 
