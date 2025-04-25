@@ -18,9 +18,6 @@ The Therapeutic Magic of Cooking: Nourishing Mind, Body, and Soul.
 Wasana Fernando
 ---------------
 
-](https://www.linkedin.com/in/wasana-fernando-37870295/)
-
-
 Wasana Fernando
 
 
