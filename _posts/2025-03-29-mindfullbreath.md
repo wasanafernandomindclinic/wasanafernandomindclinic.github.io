@@ -1,8 +1,8 @@
 ---
 title: Mindful Circle Breathing, Symbolic Drawing, and Affirmations, A Therapeutic Approach for Borderline Personality Disorder (BPD)
 date: 2025-03-29 20:14 +0300
-categories: [Blogging, ClinicalPsychology, SriLanka]
-tags: [blog, Psychology, MentalHealth,role, cooking]
+categories: [Blogging, Psychotherapy, ClinicalPsychology, SriLanka]
+tags: [blog, Psychology, MentalHealth,BPD, BoderlinePersonalityDIsorder,Anxiety,Depression,MoodDisorders,Mindfulness,MindfulArts, Relaxation]
 author: Wasana Fernando
 ---
 

@@ -2,7 +2,7 @@
 title: Navigating the Maze of Mental Health Professionals, Understanding Differences and Roles
 date: 2023-12-19 20:14 +0300
 categories: [Blogging, ClinicalPsychology, SriLanka]
-tags: [blog, Psychology, MentalHealth,role, cooking]
+tags: [blog, Psychology, MentalHealth, Burnout, CompassionFatigue, IndividualDifferences]
 author: Wasana Fernando
 ---
 

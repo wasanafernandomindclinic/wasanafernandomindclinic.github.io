@@ -1,8 +1,8 @@
 ---
 title: How a Simple Sensory Tool Kit Can Help You Feel Calmer.
 date: 2025-01-29 20:14 +0300
-categories: [Blogging, ClinicalPsychology, SriLanka]
-tags: [blog, Psychology, MentalHealth,role, cooking]
+categories: [Blogging, Psychotherapy, ClinicalPsychology]
+tags: [blog, Psychology, MentalHealth,BPD, BoderlinePersonalityDIsorder,Anxiety,Depression,MoodDisorders,SensoryTools,FiveSensory,Relaxation]
 author: Wasana Fernando
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Rethinking Maslow, Adapting the Hierarchy of Needs for Sri Lankan Culture in Mental Health Practice
 date: 2024-12-14 20:14 +0300
-categories: [Blogging, ClinicalPsychology, SriLanka]
-tags: [blog, Psychology, MentalHealth,role, cooking]
+categories: [Blogging, Psychotherapy, ClinicalPsychology, SriLanka]
+tags: [blog, Psychology, MentalHealth,Maslow, Humanistic, CulturalSensitivity,CulturalDiversity, CulturalAdaptation,SrilankanCulture]
 author: Wasana Fernando
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: The Connection Between Food, Health, and Happiness, Embracing Culinary Therapy
 date: 2024-07-30 20:14 +0300
-categories: [Blogging, ClinicalPsychology, SriLanka]
-tags: [blog, Psychology, MentalHealth,role, cooking]
+categories: [Blogging, Lifestyle, SriLanka]
+tags: [blog, Psychology, MentalHealth,LifestyleModificationTechniques,Culinary, Cooking]
 author: Wasana Fernando
 ---
 

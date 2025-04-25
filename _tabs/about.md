@@ -3,7 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# About Me
 
 Hello, and thank you for visiting my space on the web!
 
