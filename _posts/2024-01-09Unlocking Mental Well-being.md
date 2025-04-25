@@ -6,10 +6,8 @@ tags: [blog, Psychology, MentalHealth,role, professionalism]
 author: Wasana Fernando
 ---
 
-<p align="center">
-  <img src="assets/1704791862403.png" alt="Image" />
-</p>
 
+![Desktop View](assets/1704791862403.jpg)
 
 Unlocking Mental Well-being: The Indispensable Role of "Clinical Psychologists" in Sri Lanka.
 
