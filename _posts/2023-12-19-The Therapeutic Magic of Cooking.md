@@ -10,13 +10,10 @@ author: Wasana Fernando
 
 The Therapeutic Magic of Cooking: Nourishing Mind, Body, and Soul.
 
-[
+[![Wasana Fernando](https://media.licdn.com/dms/image/v2/D5603AQGNxrYyaj4sKQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1675773096993?e=1750896000&v=beta&t=QMxNWDG-LjlabMxd6Kkszb2B0yh0u9aE-RMgKn9Qr3U)](https://www.linkedin.com/in/wasana-fernando-37870295/)
 
-![Wasana Fernando](https://media.licdn.com/dms/image/v2/D5603AQGNxrYyaj4sKQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1675773096993?e=1750896000&v=beta&t=QMxNWDG-LjlabMxd6Kkszb2B0yh0u9aE-RMgKn9Qr3U)
+[**Wasana Fernando**](https://www.linkedin.com/in/wasana-fernando-37870295/)
 
-](https://www.linkedin.com/in/wasana-fernando-37870295/)
-
-[
 
 Wasana Fernando
 ---------------
