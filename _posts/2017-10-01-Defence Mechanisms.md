@@ -36,7 +36,7 @@ Sigmund Freud's topographical model represents his formation of the mind. Accord
 
 ### Levels of consciousness (Preliminary analysis)
 
-![Desktop View](assets/x1.png)
+![Desktop View](assets/x1.gif)
 
 -   Conscious
 -   Pre-Conscious
@@ -71,7 +71,7 @@ Super Ego is based on moral and cultural phenomena. Normally, the Super Ego begi
 
 The Ego has a difficult time satisfying both Id and Super Ego impulse. It doesn't have the capacity to do this without help. Therefore, Ego uses tools and fulfill its job as the mediator. These tools help to defend the Ego. These are called as "**Ego Defenses**" or "**Ego Defense Mechanisms**". When the Ego has a difficult time making both Id and the Super Ego Happy, it will employ one or more these defenses.
 
-![Desktop View](assets/x3.png)
+![Desktop View](assets/x3.avif)
 
 Sigmund Freud was the first person to develop the concept of defense mechanisms as the part of his Psycho-Analytical Theory and further developed by his daughter, Anna Freud. Anna described different defenses in her first-born published book "Ego and Mechanisms of Defenses" in 1936. There are,
 

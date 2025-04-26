@@ -65,7 +65,7 @@ Hippocrates' work was continued by some of the later Greek and Roman physicians.
 
 One of the most influential Greek physicians was Galen (A.D 130-200), who practiced in Rome. He made a new theory as "the humoral theory of abnormal behavior" it was based Hippocrates believes and after that Galan also believed abnormal behaviors are based on these four humor.
 
-![Desktop View](asset/x8.png)
+![Desktop View](asset/x8.avif)
 
 Moreover, Galan made a Number of original contributions the anatomy of the nervous system. Galen also maintained a scientific approach to the field, dividing the causes of psychological disorders into physical and mental categories. Among the causes he named were injuries to the head, alcoholic excess, shock, fear, adolescence, menstrual changes, economic reverses, and disappointment in love.
 
