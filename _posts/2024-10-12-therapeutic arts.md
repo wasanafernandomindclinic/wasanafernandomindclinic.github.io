@@ -22,12 +22,12 @@ In mindful art, each stroke serves as a release, offering a safe space to proces
 
 Through art therapy, individuals can gently explore these emotions in a non-verbal, mindful way. It fosters self-compassion, encourages emotional release, and transforms past pain into something meaningful. Every stroke is a step toward healing, relief stress, reminding us that art is not just creative expression but also a profound journey toward inner peace.
 
-![Desktop View](assets/11.png)
+![Desktop View](assets/11.jpg)
 
 Her use of color on the lips hints at a growing willingness to explore and express her feelings. Yet, the blankness in the eyes reveals lingering trauma, showing that full healing may still be a journey. Each drawing marks a step forward, reflecting her slow but steady reconnection with herself.
 
 Encouraging self-expression through art can be a powerful tool in therapy, offering insights into her emotional progress over time.
 
-![Desktop View](assets/22.png)
+![Desktop View](assets/22.jpg)
 
 Healing is possible, one mindful stroke at a time.

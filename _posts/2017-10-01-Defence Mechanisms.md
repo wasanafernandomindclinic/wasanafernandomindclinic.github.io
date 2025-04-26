@@ -6,7 +6,7 @@ tags: [blog, Psychology, MentalHealth,AnalyticalPsychology, DefenseMechanism, Id
 author: Wasana Fernando
 ---
 
-![Desktop View](asset/x5.png)
+![Desktop View](assets/x5.png)
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/wasana-fernando-37870295/" target="_blank">

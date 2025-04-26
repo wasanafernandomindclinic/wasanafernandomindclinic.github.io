@@ -6,7 +6,7 @@ tags: [blog, Psychology, MentalHealth,PlayTherapy, NeurocognitiveDevelopment, PL
 author: Wasana Fernando
 ---
 
-![Desktop View](asset/x10.png)
+![Desktop View](assets/x10.png)
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/wasana-fernando-37870295/" target="_blank">
@@ -36,7 +36,7 @@ Therefore, Family activities are very important for the child and it helps to de
 
 **Types of Play**
 
-![Desktop View](asset/x111.png)
+![Desktop View](assets/x111.png)
 
 There are many types of play. They are,
 
