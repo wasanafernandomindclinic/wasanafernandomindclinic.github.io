@@ -32,11 +32,11 @@ In addition, Play helps to develop language and socialization skills.  Playing 
 
 Playing with children builds a lasting bond and it allows parents to appreciate and recognize the uniqueness of each child. When a parent or sibling plays a game with a child, they learn to share their toys and activities. they try to teach how to work those toys.  It helps to enhance their self-importance and positive social interaction. Therefore, Child's self-esteem gets a boost and this feeling is sending a positive message to your child. and, they try to develop a vision of the world and gain a sense of their place in the family and in society.
 
-Therefore, Family activities are very important for the child and it helps to develop a strong present and future family bond which can last a time.
+Therefore, Family activities are very important for the child and it helps to develop a strong present and future family bond which can last a time....
 
 **Types of Play**
 
-![Desktop View](assets/x111.png)
+![Desktop View](assets/x11.png)
 
 There are many types of play. They are,
 
