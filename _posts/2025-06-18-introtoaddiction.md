@@ -16,10 +16,6 @@ author: Wasana Fernando
 </div>
 
 
-**Wasana Fernando¹, Arosha Rajapakse¹, Kathiravel Vijayashanthi¹, Pathmasri Sivalingam¹**<br>
-Trainee Clinical Psychologists, MPhil in Clinical Psychology Candidates.<br>
-Faculty of Graduate Studies, University of Colombo, Sri Lanka (2025).
-
 **Overview**
 
 Addiction is a growing global public health concern that covers both substance-related and behavioural disorders, affecting individuals across all demographics. It is now widely recognized as a chronic, relapsing brain disorder shaped by complex interactions among genetic, neurobiological, psychological, and environmental factors. Moving beyond outdated moralistic views, contemporary perspectives emphasize addiction's medical and psychosocial dimensions. This article provides a comprehensive overview of addiction, its definitions, classifications, prevalence, neurobiological underpinnings, behavioural mechanisms, risk factors, prevention strategies, and societal perceptions, with a focus on both global trends and the Sri Lankan context.
