@@ -6,7 +6,7 @@ tags: [blog, Psychology, MentalHealth, Addiction, Depression, MoodDisorders, Sub
 author: Wasana Fernando
 ---
 
-![Desktop View](assets/add.png)
+![Desktop View](assets/addd.jpeg)
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/wasana-fernando-37870295/" target="_blank">
