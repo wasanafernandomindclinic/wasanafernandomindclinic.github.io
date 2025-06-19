@@ -16,7 +16,7 @@ author: Wasana Fernando
 </div>
 
 
-**Wasana Fernando¹, Arosha Rajapakse¹, Kathiravel Vijayashanthi¹, Padmashri Shivalingum¹**<br>
+**Wasana Fernando¹, Arosha Rajapakse¹, Kathiravel Vijayashanthi¹, Pathmasri Sivalingam¹**<br>
 Trainee Clinical Psychologists, MPhil in Clinical Psychology Candidates.<br>
 Faculty of Graduate Studies, University of Colombo, Sri Lanka (2025).
 
