@@ -8,7 +8,7 @@ author: Wasana Fernando
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/wasana-fernando-37870295/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQGNxrYyaj4sKQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1675773096993?e=1750896000&v=beta&t=QMxNWDG-LjlabMxd6Kkszb2B0yh0u9aE-RMgKn9Qr3U" alt="Wasana Fernando" width="50" height="50" style="border-radius: 50%; margin-right: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQGqmZMF-iRUqA/profile-displayphoto-shrink_200_200/B4DZZtGoXmGcAY-/0/1745587183368?e=1755734400&v=beta&t=vnDv5XHSj2TDWWcWCZklt1uhS4tbSnotW3C0_AVa1y0" alt="Wasana Fernando" width="50" height="50" style="border-radius: 50%; margin-right: 10px;">
   </a>
   <a href="https://www.linkedin.com/in/wasana-fernando-37870295/" target="_blank" style="font-weight: bold;">Wasana Fernando</a>
 </div>
