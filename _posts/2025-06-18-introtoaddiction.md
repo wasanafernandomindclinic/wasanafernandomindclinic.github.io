@@ -6,7 +6,12 @@ tags: [blog, Psychology, MentalHealth, Addiction, Depression, MoodDisorders, Sub
 author: Wasana Fernando
 ---
 
-![Desktop View](assets/addd.jpeg)
+**Wasana Fernando¹, Arosha Rajapakse¹, Vijayashanthi Kathiravel¹, Pathmasri Sivalingam ¹,** <br>
+Trainee Clinical Psychologists, MPhil in Clinical Psychology Candidates, <br>
+Faculty of Graduate Studies, University of Colombo, Sri Lanka (2025) <br>
+
+
+![Desktop View](assets/as.jpeg)
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/wasana-fernando-37870295/" target="_blank">
@@ -16,11 +21,19 @@ author: Wasana Fernando
 </div>
 
 
-**Overview**
+
+
+
+
+**1. UNDERSTANDING ADDICITON**
 
 Addiction is a growing global public health concern that covers both substance-related and behavioural disorders, affecting individuals across all demographics. It is now widely recognized as a chronic, relapsing brain disorder shaped by complex interactions among genetic, neurobiological, psychological, and environmental factors. Moving beyond outdated moralistic views, contemporary perspectives emphasize addiction's medical and psychosocial dimensions. This article provides a comprehensive overview of addiction, its definitions, classifications, prevalence, neurobiological underpinnings, behavioural mechanisms, risk factors, prevention strategies, and societal perceptions, with a focus on both global trends and the Sri Lankan context.
 
-**Introduction and Defining Addiction**
+**Historical Perspectives on Addiction**
+
+Historically, people perceived addiction through a moralistic and punitive lens, often interpreting it as a result of personal weakness, a lack of willpower, or criminality. This stigmatizing view dominated social and medical discourse well into the 20th century. A turning point occurred when the American Medical Association officially recognized alcoholism as a disease in 1956 and drug addiction in 1987, shifting the framework from moral judgement to medical diagnosis (Heather, 2017). Since then, the growing field of neuroscience has increasingly supported the brain disease model of addiction, highlighting the neurobiological changes that sustain compulsive substance use and behavioural engagement (Olsen, 2021).
+
+**Definition and Disgnostic Framework**
 
             Addiction is recognized as a chronic, relapsing disorder with significant implications for individuals, families, and society. It is characterized by compulsive engagement in substance use or specific behaviours, despite negative outcomes. This disorder leads to lasting changes in brain function, particularly in areas responsible for reward, motivation, memory, and executive control. As such, addiction is clinically defined as both a mental illness and a brain disease (Goldstein & Volkow, 2011; National Institute on Drug Abuse [NIDA], 2020). The burden of addiction is significant, affecting mental and physical health, social functioning, and overall quality of life across populations worldwide (World Health Organization [WHO], 2004).
 
@@ -28,17 +41,19 @@ Addiction is a growing global public health concern that covers both substance-r
 
 The American Society of Addiction Medicine (2019) further defines addiction as a chronic medical disease that results from the interaction of brain circuits, genetics, environment, and individual life experiences. This comprehensive model moves beyond outdated views of addiction as a moral failing and acknowledges it as a multifactorial disorder requiring biopsychosocial care. Neuroimaging studies back this idea by showing that people with addiction have important changes in how their brains work, particularly in parts that deal with controlling impulses, feeling rewards, and forming habits (Goldstein & Volkow, 2011). These changes help explain why individuals with addiction struggle to control their behaviour, even when they are aware of its harmful consequences.
 
-**Core Features and Key Discrepancies of Addictions**
+**2. CORE FEATURES OF ADDICTION (4Cs)**
 
-Three key characteristics, known as the 3Cs, serve to observe the core manifestations of addiction.
+Addiction is commonly identified through four core behavioural characteristics, often referred to as the "4Cs." These include:
 
-1.  Craving for the substance or behaviour
-2.  Loss of control over its use
-3.  Continued involvement despite negative outcomes (Harm Reduction Center, 2020; NeuroLaunch Editorial Team, 2024; APA, 2013)
+i.  Compulsion - a persistent urge to engage in specific behaviour.<br>
+ii. Craving - an intense desire or preoccupation with the substance or activity.<br>
+iii.  Loss of control - the inability to limit or cease the behaviour despite the intention to do so. <br>
+iv. Continued use despite negative consequences, such as physical, psychological, or social harm (Rose, 2023; Harm Reduction Center, 2020; NeuroLaunch Editorial Team, 2024; APA, 2013).
 
-These features underline the compulsive and often destructive nature of addiction and reinforce its classification as a medical condition. Recognizing these traits helps differentiate addiction from habitual use or recreational experimentation, allowing for more accurate clinical assessment and intervention.
+These features show that addiction is long-lasting, hard to control, and often harmful, which is why it is seen as both a medical and psychological condition. Recognizing these signs helps tell the difference between true addiction and casual or occasional use, leading to better diagnosis and treatment.
 
-In understanding addiction, it is also essential to distinguish between related terms such as use, misuse, and abuse:
+**3. CONCEPTUAL CLARIFICATION: Substance Use, Misuse, and Abuse**
+It is also important to understand related terms like substance use, misuse, and abuse to better explain the range of behaviours linked to addiction:
 
 1.  Use refers to the consumption of substances in a socially accepted or non-problematic manner, often for recreational or medicinal purposes.
 2.  Misuse denotes excessive or inappropriate use that may result in legal, medical, or social problems.
@@ -46,25 +61,39 @@ In understanding addiction, it is also essential to distinguish between related 
 
 These distinctions are critical for clinicians, researchers, and policymakers aiming to address the spectrum of substance-related behaviours effectively.
 
-**Prevalence of Addiction**
+**4. EPIDEMIOLOGY OF ADDICITON**
 
-Addiction continues to pose a significant public health burden globally and nationally. The United Nations Office on Drugs and Crime (UNODC, 2023) estimates that 296 million people worldwide, or about 1 in 17 individuals aged 15 to 64, used illicit drugs in 2021, which reflects a steady rise in global drug use. Of these, approximately 39.5 million individuals received a diagnosis of drug use disorders (DUDs). Cannabis remains the most used illicit substance, with 219 million users globally (4.3% of the adult population), and men account for approximately 70% of these users. Amphetamines, cocaine, and ecstasy-type substances were used by 36 million, 22 million, and 20 million people, respectively. Opioids, used by about 60 million individuals, caused the most drug-related harm, with heroin alone accounting for 31.5 million users in 2021. Gender differences in drug use patterns were also notable: while men had higher rates of opiate and cocaine use (75% and 73%, respectively), women reported higher rates of amphetamine use (UNODC, 2023).
+**Global Trends**
 
-Harmful alcohol consumption is another major contributor to the global burden of disease. The World Health Organization (WHO, 2023) estimates that approximately 3 million deaths annually are attributable to alcohol use, making it a leading preventable cause of mortality. In terms of related public health outcomes, alcohol use disorders (AUDs), drug use disorders (DUDs), interpersonal violence (IV), and self-harm remain closely interconnected and disproportionately affect younger populations. In 2021 alone, there were 55.8 million new cases of AUD, 13.6 million of DUD, 29.4 million of IV, and 5.5 million of self-harm recorded globally. While males exhibit higher rates of mortality for AUD, DUD, and IV, females report more incidents of self-harm, although men still show higher fatality rates from it. Individuals aged 15 to 49 are most affected by DUDs, IV, and self-harm, whereas the burden of AUD is highest among those aged 50 to 74. High- and middle-income countries report greater prevalence of AUD, DUD, and self-harm, whereas low- and lower-middle-income countries report more cases of interpersonal violence (Castaldelli-Maia & Bhugra, 2022).
+Addiction remains a significant public health challenge worldwide, with both global and national data pointing to rising levels of substance use and its related harms. According to the United Nations Office on Drugs and Crime (UNODC, 2023), around 296 million people aged 15 to 64 used illicit drugs in 2021, approximately one in every 17 individuals. This marks a steady increase in drug use across the globe. Of this total, about 39.5 million people were diagnosed with drug use disorders (DUDs).
 
-In Sri Lanka, national and regional data reflect a growing substance use crisis. According to data from the Police Narcotic Bureau (PNB) for 2024, the three substances most frequently associated with drug-related arrests were cannabis (75,602 cases, or 33.1%), heroin (75,097 cases, or 32.9%), and methamphetamine (commonly known as "ice") with 68,138 cases (29.8%). Specifically, the data lacks clarity regarding the relationship between these arrests and possession, personal use, or trafficking, which hinders a comprehensive understanding of enforcement patterns.
+Cannabis continues to be the most widely used illicit substance, with 219 million users (4.3% of the global adult population), and about 70% of these users are male. Amphetamines, cocaine, and ecstasy are also commonly used, with global user estimates of 36 million, 22 million, and 20 million, respectively. Opioids, used by approximately 60 million individuals, are responsible for the greatest health-related harm, with heroin alone used by 31.5 million people in 2021 (UNODC, 2023).
 
-Regionally, the Colombo District recorded the highest number of drug-related arrests in 2024, with a total of 126,586 cases. These included 34,778 cannabis-related arrests (27.5%), 46,182 heroin-related arrests (36.5%), and 41,388 methamphetamine-related arrests (33%). The Gampaha District recorded the second highest number of arrests with 23,945 cases, followed by the Kandy District with 7,315 cases. These figures underscore Colombo's central role in the nation's drug use and enforcement landscape, possibly reflecting both higher urban population density and intensified surveillance (NDDCB, 2024).
+Patterns of use differ by gender. Men are more likely to use opioids and cocaine (75% and 73% of users, respectively), while women have higher rates of amphetamine use. These differences point to the importance of gender-sensitive strategies in both prevention and treatment efforts (UNODC, 2023).
 
-These 2024 figures build on previously documented trends. The National Dangerous Drugs Control Board (NDDCB) reported 162,088 drug-related arrests in 2023, with young people's involvement rising. From January to October 2022 alone, Sri Lanka recorded 67,900 drug-related arrests. Of these, 52.6% involved heroin (35,765 individuals), 36.9% involved cannabis (25,114 individuals), and smaller proportions involved psychotropic substances (232), cocaine (21), and hashish (40) (NDDCB, 2022). These statistics indicate both the scale and diversity of the illicit drug landscape in the country.
+Alcohol use is another major global concern. According to the World Health Organization (WHO, 2023), alcohol consumption contributes to around 3 million deaths annually, making it one of the top preventable causes of death. Alcohol and drug use disorders, along with related outcomes such as interpersonal violence (IV) and self-harm, are often interconnected and tend to affect younger populations more severely. In 2021 alone, there were 55.8 million new cases of alcohol use disorder (AUD), 13.6 million cases of DUD, 29.4 million incidents of interpersonal violence, and 5.5 million cases of self-harm.
 
-The National Prevalence Survey on Drug Use (2019) offered further insight into substance use patterns. It revealed that cannabis is the most used illicit drug in Sri Lanka, used by approximately 1.9% of the population over age 14, around 301,898 individuals. About 0.6% (92,540 individuals) use heroin, with a significant gender disparity: 1.2% of males and only 0.018% of females. The misuse of pharmaceutical drugs affects about 0.2% of the population. Polysubstance use is also common, with 77% of heroin users (around 70,862 individuals) and 178,643 cannabis users engaging in regular use.
+Gender also plays a role in these outcomes. Men are more likely to die from AUDs, DUDs, and interpersonal violence, while women report higher rates of non-fatal self-harm. Age and income level further influence risk: those aged 15-49 are more affected by DUDs, IV, and self-harm, while AUDs are more common among individuals aged 50-74. Additionally, high- and middle-income countries report more cases of AUDs, DUDs, and self-harm, whereas lower-income countries like Sri Lanka report more interpersonal violence (Castaldelli-Maia & Bhugra, 2022).
 
-Broader substance use patterns include legal substances such as tobacco and alcohol. Among males over the age of 14, 32.32% are reported to smoke cigarettes, and 40.89% consume alcohol. The Western Province, particularly the Colombo District, remains the epicenter of both legal and illegal substance use, indicating a concentration of risk in urban and semi-urban areas.
+**Substance Use Trends in Sri Lanka**
 
-Epidemiological studies further underscore the magnitude of the crisis. A recent study in the Western Province found that 88.4% of individuals identified as drug users met criteria for substance use disorders (Nawaratne & Vidanapathirana, 2024). This high prevalence aligns with findings from institutional settings, including prisons, rehabilitation centres, and psychiatric hospitals, where significant levels of comorbidity between substance use and mental health disorders have been documented (Hapangama et al., 2021; Jayamaha et al., 2022). These findings highlight the dual burden of addiction and psychiatric distress among affected populations. These national patterns align with global trends, emphasizing the urgent need for integrated prevention, treatment, and harm reduction strategies tailored to both general and at-risk populations.
+Sri Lanka has seen a significant rise in substance use-related concerns. According to data from the Police Narcotic Bureau (PNB), in 2024, cannabis was involved in 75,602 drug-related arrests (33.1%), heroin in 75,097 (32.9%), and methamphetamine (commonly known as "ice") in 68,138 (29.8%) (National Dangerous Drugs Control Board [NDDCB], 2024). However, these statistics reflect enforcement data rather than actual prevalence and often do not distinguish between use, possession, or trafficking.
 
-**Classification and Forms of Addictions**
+The Colombo District recorded the highest number of arrests in 2024, with 126,586 cases. This included 34,778 arrests related to cannabis (27.5%), 46,182 for heroin (36.5%), and 41,388 for methamphetamine (33%). Gampaha District followed with 23,945 arrests, and Kandy recorded 7,315. These regional differences may be influenced by factors such as urbanization, population density, and the extent of law enforcement (NDDCB, 2024).
+
+Earlier reports show similar trends. In 2023, 162,088 drug-related arrests were reported, and in the first ten months of 2022, 67,900 arrests occurred. Of these, 52.6% were related to heroin (35,765 cases), 36.9% to cannabis (25,114 cases), and smaller numbers to substances like psychotropics, cocaine, and hashish (NDDCB, 2022).
+
+Survey data from the National Prevalence Survey on Drug Use (2019) adds further detail. It estimated that 1.9% of people over age 14 (around 301,898 individuals) use cannabis, and 0.6% (about 92,540 individuals) use heroin. The gender gap is notable: 1.2% of males use heroin, compared to only 0.018% of females. Pharmaceutical drug misuse affects roughly 0.2% of the population. Polysubstance use is also widespread, with 77% of heroin users (approximately 70,862) and over half of cannabis users (178,643) engaging in regular or combined use (NDDCB, 2019).
+
+Legal substance use is also high, particularly among males over 14 years of age. About 32.3% report smoking tobacco, and 40.9% consume alcohol. The Western Province, especially the Colombo District, continues to be the hub for both legal and illegal substance use, highlighting the need for targeted regional interventions (NDDCB, 2019).
+
+**Psychiatric Comorbidity and Institutional Findings**
+
+Addiction in Sri Lanka is closely linked with mental health challenges. A recent community-based study in the Western Province found that 88.4% of individuals identified as drug users met the criteria for substance use disorders (Nawaratne & Vidanapathirana, 2024). This reflects similar trends seen in institutional settings such as rehabilitation centres, prisons, and psychiatric hospitals, where high levels of co-occurring mental health conditions have been reported (Hapangama et al., 2021; Jayamaha et al., 2022).
+
+These findings show that addiction is not only a behavioural issue but also a significant mental health concern, often requiring integrated treatment approaches that address both substance use and underlying psychological distress.
+
+**5. CLASSIFICATION AND FORMS OF ADDCITION**
 
 Addiction can be broadly classified into two main categories: substance-related addictions and behavioural (non-substance) addictions. While addiction is often associated with the compulsive use of substances such as alcohol, nicotine, opioids, and stimulants, it also includes repetitive, compulsive behaviours that activate the same neurological reward pathways, even without substance incorporation (Koob & Volkow, 2016; Grant et al., 2010).
 
@@ -98,6 +127,7 @@ While the DSM-5 currently includes only gambling disorders, other behaviours, su
 Behavioural addictions can be further subdivided based on their legal or forensic consequences:
 
 -   **Forensic or Punitive Addictions**: These include gambling, kleptomania, sexual addiction, and compulsive shopping. They may involve legal repercussions such as fraud, theft, or public misconduct. The legal status of these behaviours depends on country-specific laws and the role of regulatory bodies.
+
 -   **Non-Forensic Process Addictions**: These include compulsive exercise, trichotillomania (hair pulling), skin picking, and compulsive eating. Although these addictions are not legally punishable, they can cause significant personal and psychological distress and impair an individual's functioning (Ali, 2021).
 
 Common forms of behavioural addiction encompass a wide spectrum of compulsive, non-substance-related activities that interfere with daily functioning and mental well-being (Grant et al., 2010; Zou et al., 2017). Gambling addiction involves persistent, high-risk gambling behaviour despite severe financial or emotional consequences and is the only behavioural addiction currently recognized by the DSM-5 (American Psychiatric Association [APA], 2013). Internet and video game addiction is characterized by excessive digital engagement that disrupts personal, academic, or occupational responsibilities, often resembling substance addictions in neurobiological patterns (Carroll, Chiu, & Grant, 2024). Sex addiction entails compulsive sexual behaviours or fantasies that persist despite harmful outcomes, while shopping addiction is marked by impulsive purchases beyond financial capacity, often leading to debt or emotional distress (Ali, 2021).
@@ -105,6 +135,8 @@ Common forms of behavioural addiction encompass a wide spectrum of compulsive, n
 Smartphone addiction manifests as a dependency on device usage, accompanied by anxiety or irritability when access is restricted, and social media addiction involves obsessive posting, scrolling, or seeking validation online, frequently linked to low self-esteem (Grant et al., 2010). Exercise addiction is the compulsion to engage in excessive physical activity, sometimes resulting in injury or overexertion. Similarly, work addiction refers to an obsessive pursuit of productivity or success at the expense of emotional and physical health. Love or relationship addiction includes intense emotional dependency, fear of abandonment, or engagement in unstable or multiple romantic relationships (Zou et al., 2017). Food addiction is characterized by compulsive overeating or restrictive eating patterns that impair physical and psychological health. Lastly, body dysmorphic behaviours, while not traditionally classified as addictions, involve obsessive preoccupation with perceived flaws in appearance, often leading to repetitive checking or corrective behaviour (Ali, 2021). Despite varying presentations, these behavioural addictions share core features such as craving, loss of control, and persistence despite harm (APA, 2013; Grant et al., 2010).
 
 Despite differences in external manifestations, both substance and behavioural addictions reflect underlying mechanisms that are closely associated with the development of habitual behaviours, thereby setting the stage for understanding the addiction-habit loop (APA, 2013; Koob & Volkow, 2016).
+
+**6. MACHANISMS OF ADDICITION**
 
 **The Addiction Habit Loop**
 
@@ -119,21 +151,21 @@ This cue and craving represent the problem phase, where a behaviour is initiated
 
 In clinical practice, interventions that disrupt this loop, such as cognitive-behavioural therapy, habit reversal therapy, cue exposure, and outcome management, have shown effectiveness in reducing relapse (Heinicke et al., 2020; Marlatt & Donovan, 2005).
 
-**Historical Perspectives**
+**7. NEUROBIOLOGICAL FOUNDATIONS OF ADDICTION**
 
-Historically, people perceived addiction through a moralistic and punitive lens, often interpreting it as a result of personal weakness, a lack of willpower, or criminality. This stigmatizing view dominated social and medical discourse well into the 20th century. A turning point occurred when the American Medical Association officially recognized alcoholism as a disease in 1956 and drug addiction in 1987, shifting the framework from moral judgement to medical diagnosis (Heather, 2017). Since then, the growing field of neuroscience has increasingly supported the brain disease model of addiction, highlighting the neurobiological changes that sustain compulsive substance use and behavioural engagement (Olsen, 2021).
-
-**Neurobiological Foundations**
+**Brain Circuitry and Dopamine Pathways**
 
 The brain disease model posits that addiction results in chronic alterations to brain structures and functions, particularly within neural circuits responsible for reward, motivation, memory, impulse control, and decision-making (Leshner, 1997; Koob & Volkow, 2016). Central to this process is the mesolimbic dopamine pathway, often referred to as the brain's reward system. This network includes the ventral tegmental area (VTA), where dopamine neurones originate, and the nucleus accumbens (NAc), a critical structure for processing reward. When an addictive substance is consumed or a rewarding behaviour is engaged, this system becomes hyperactivated, releasing large quantities of dopamine and producing sensations of euphoria, which reinforces further use (Koob & Volkow, 2016; Goldstein & Volkow, 2002).
 
-***The Brain of Addiction vs. Normal Brain: Neurological Impact of Substance Use***
+***The Brain of Addiction vs. Normal Brain***
 
 ![Desktop View](assets/1111.jpg)
 
 
 
 ***Note.*** Adapted from *The brain of addiction vs. normal brain: Neurological impact of substance use*, by White Light Behavioral Health, n.d. (<https://whitelightbh.com/resources/addiction-brain/>). © n.d. White Light Behavioral Health.
+
+**Neurological Changes and Neuroadaptation**
 
 Over time, chronic substance use leads to neuroadaptations. These changes involve fewer dopamine receptors, especially D2 receptors, and problems with the prefrontal cortex, which is the part of the brain responsible for decision-making, controlling impulses, and planning for the future. These changes weaken an individual's ability to resist cravings and increase susceptibility to relapse. Simultaneously, the amygdala, which processes emotional responses, becomes hyper-responsive, particularly during withdrawal or stress. This results in heightened emotional reactivity, anxiety, and a strong drive to return to substance use or compulsive behaviour to alleviate distress (Koob, 2013).
 
@@ -146,35 +178,52 @@ Additional research shows that chronic addiction also affects the hippocampus, r
 
 The cycle of addiction is maintained through both positive and negative reinforcement processes. In the early stages, addictive substances or behaviours are driven by positive reinforcement, and individuals seek the pleasurable and euphoric effects of the experience. As addiction progresses, negative reinforcement takes precedence, with individuals continuing substance use to avoid unpleasant withdrawal symptoms or to relieve emotional distress (Zhu et al., 2013). Neurobiologically, addiction disrupts the brain's reward circuitry, particularly affecting dopaminergic transmission. Normally, dopamine is steadily released from the midbrain to parts of the brain like the striatum and prefrontal cortex, mainly activating D2 receptors. However, exposure to a rewarding stimulus, such as a drug or addictive behaviour, triggers a phasic burst of dopamine, which preferentially stimulates D1 receptors, resulting in a subjective feeling of being "high" (Zhu et al., 2013).
 
+**Role of Neurotransmitters**
+
 While dopamine is central to addiction, several other neurotransmitters also play critical roles. These include serotonin, which regulates mood and impulse control, and gamma-aminobutyric acid (GABA), which is involved in anxiety modulation and inhibition of neural activity. Moreover, addiction affects systems involving glutamate, norepinephrine, endorphins, acetylcholine, anandamide, oxytocin, and dynorphin, each contributing to different aspects of the addiction process such as motivation, learning, memory, pain regulation, and social attachment (Better Life Recovery, 2024). Furthermore, compulsivity in addiction is mediated by the basal ganglia, which are responsible for habit formation and reinforcement. Overstimulation of the dorsolateral prefrontal cortex and anterior cingulate cortex leads to impaired impulse control and stronger urges to use substances or engage in addictive behaviours. These brain regions, along with the limbic system, become more sensitive to triggers, or cues associated with previous substance use, increasing the risk of relapse even after long periods of abstinence (Turpin et al., 2023).
 
 Ultimately, addiction is maintained through a complex interaction of reward and stress systems, making it a relapsing condition with both biological and behavioural underpinnings. Although the brain disease model offers valuable insights into the compulsive and chronic nature of addiction, it has also been critiqued for underemphasizing sociocultural and environmental influences. Scholars such as Levy (2013) argue that a comprehensive understanding of addiction should extend beyond neurobiology to include biopsychosocial factors, a view supported by integrative frameworks in neuroscience and psychology (Meyer & Quenzer, 2005). Therefore, while neurobiological foundations are critical for explaining addiction's mechanisms, effective prevention and treatment must also address the psychological, social, and contextual aspects of addictive behaviour.
 
-**Causes, Risk Factors, and Vulnerabilities**
+**8. CAUSES, RISK FACTORS, AND VULNERABILITIES**
 
 Addiction is a multifactorial disorder that arises from the dynamic interplay of biological, psychological, and social factors, each of which contributes to the onset, progression, and maintenance of addictive behaviours. While no single cause can account for all cases, understanding the vulnerabilities across these domains is crucial for prevention and intervention.
 
+**Biological RIsk Factors**
+
 From a biological perspective, genetics play a significant role in addiction vulnerability. Research estimates that genetic predisposition accounts for 40%--60% of an individual's susceptibility to addiction (Bettinardi-Angres & Angres, 2011; Ducci & Goldman, 2012). These genetic factors may affect neurotransmitter systems, such as dopamine regulation, which influences impulsivity, reward sensitivity, and stress reactivity. Inherited traits related to brain chemistry and impulse control further compound this risk, especially when combined with environmental exposures. Moreover, co-occurring physical health conditions, such as chronic pain, can lead individuals to misuse substances as a form of self-medication, thereby reinforcing dependence (Volkow & McLellan, 2016).
 
+**Psychological Risk Factors**
+
 Psychological factors also exert a powerful influence on addiction vulnerability. Adverse childhood experiences (ACEs), including trauma, neglect, abuse, and early exposure to parental substance use, have been consistently linked to early initiation and escalation of addictive behaviours (Mitchell & Potenza, 2014; Scrichawlaa et al., 2022). Additionally, comorbid mental health conditions such as depression, anxiety, post-traumatic stress disorder (PTSD), attention-deficit/hyperactivity disorder (ADHD), and certain personality disorders frequently co-occur with addiction (Hapangama, 2013). Individuals often resort to substance use or compulsive behaviours as maladaptive coping mechanisms for emotional dysregulation. Cognitive distortions, such as denial, minimization, or negative core beliefs, can further reinforce substance use and complicate recovery efforts (Beck et al., 1993; Marlatt & Donovan, 2005).
+
+**Social and Environmental Influences**
 
 On the social and environmental front, a range of factors contribute to addiction risk. These include dysfunctional family dynamics, peer pressure, poverty, unemployment, and limited access to education or healthcare (Koob & Kreek, 2007; NIDA, 2020). Environmental exposure to substances, particularly in communities where drug use is normalized, increases the likelihood of initiation. Moreover, cultural stigma, legal structures, and social exclusion may limit access to care and discourage help-seeking behaviour (Fatayer, 2008). Individuals growing up in low socioeconomic environments or experiencing community violence are particularly vulnerable, especially when protective factors like parental monitoring or social support are absent.
 
 Studies have also highlighted the heightened emotional reactivity of individuals with addictions to both positive and negative life events, with a tendency to experience the impact of negative events more intensely than non-addicted individuals (Zilberman et al., 2019). This emotional hypersensitivity can make individuals more likely to seek immediate relief through substance use or addictive behaviour, perpetuating the cycle of dependence.
 
+**9. MACHANISMS OF ADDICITION**
+
+**The Cycle of Addiction**
+
 The cycle of addiction itself has been described in four stages: impulsivity, positive reinforcement, compulsivity, and negative reinforcement (Semaan & Khan, 2023). Impulsivity marks the beginning of substance use or engagement in behaviour and is often driven by curiosity, peer influence, or emotional need. Positive reinforcement occurs when a behaviour or substance results in pleasurable effects or social rewards, such as peer approval. Over time, compulsivity develops, characterized by a loss of control and habitual use. Maintaining substance use or behaviour to alleviate discomfort, stress, or withdrawal symptoms leads to negative reinforcement, perpetuating the addiction cycle.
 
 Overall, addiction is not caused by a singular issue but emerges through the convergence of genetic vulnerability, psychological distress, and adverse social environments. Recognizing these overlapping risk factors is essential for designing effective, individualized prevention and treatment strategies that address the complexity of addiction in both clinical and community settings.
 
-**Prevention and Early Intervention**
+**10. PPREVENTION AND EARLY INTERVENTION**
 
-Effective prevention of addiction occurs at three main levels: primary, secondary, and tertiary. Primary prevention aims to stop substance use before it begins by focusing on the general population, especially individuals who have not yet experimented with or initiated the use of psychoactive substances. Strategies include school-based education, public awareness campaigns, and youth-focused programs that build coping skills, resilience, and healthy decision-making (UNODC, 2023; WHO, 2010).
+Effective prevention of addiction occurs at three main levels: 
 
+**Primary Prevention**
+primary, secondary, and tertiary. Primary prevention aims to stop substance use before it begins by focusing on the general population, especially individuals who have not yet experimented with or initiated the use of psychoactive substances. Strategies include school-based education, public awareness campaigns, and youth-focused programs that build coping skills, resilience, and healthy decision-making (UNODC, 2023; WHO, 2010).
+
+**Secondary Prevention**
 Secondary prevention focuses on individuals at higher risk, such as those with a family history of addiction or early signs of substance use. Screening tools such as the Alcohol Use Disorders Identification Test (AUDIT), the CRAFFT questionnaire, and the Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST) help detect early risk. These tools are commonly followed by brief counselling sessions or early support interventions to prevent progression to addiction (Babor et al., 2001; Knight et al., 2002; WHO, 2010).
 
+**Teritiary Prevention**
 Tertiary prevention supports individuals already struggling with substance use disorders. It includes medical detoxification, medication-assisted treatment (MAT), psychological therapies like cognitive behavioural therapy (CBT) and motivational interviewing (MI), and harm and symptom reduction strategies such as pharmacological management (NIDA, 2020). In addition, habit reversal strategies (awareness training, competing response training, motivation enhancement, generalization training, and habit stacking) have been shown to be effective in breaking maladaptive behaviour patterns by replacing them with intentional, controlled responses (Azrin & Nunn, 1973; Marlatt & Donovan, 2005; Graybiel, 2008). Moreover, long-term recovery is supported by services such as housing assistance, vocational training, and social reintegration. In Sri Lanka, programs like Mel Madura, in partnership with the United Nations Office on Drugs and Crime (UNODC), have shown success in community-based rehabilitation (Jayamaha et al., 2022; UNODC, 2023).
 
-**Social Perception of Addiction**
+**11. SOCIAL PERCEPTION AND STIGMA**
 
 Society's perception of addiction is important because it affects attitudes toward prevention, treatment, and recovery. Historically, addiction was largely viewed through a moralistic and punitive lens. Individuals with substance use disorders (SUDs) were frequently regarded as morally weak or criminally deviant rather than as people in need of medical care. This stigmatizing view dominated social discourse and institutional responses for decades, resulting in punitive policies, social exclusion, and limited access to compassionate care (Samer El Hayek et al., 2024). Although the modern understanding of addiction has evolved significantly, remnants of these outdated views persist in public and professional contexts.
 
@@ -188,11 +237,11 @@ Importantly, societal stigma intersects with factors like race, gender, and soci
 
 Despite the challenges, public perception is gradually evolving. Increasing awareness of the neurobiological and psychosocial foundations of addiction is critical to dismantling outdated beliefs and promoting more empathetic, science-based approaches to intervention. Community support, destigmatizing language, and inclusive public health messaging can foster environments where individuals feel safe seeking help. As societal attitudes shift, there is greater potential to facilitate early identification of addiction, support recovery, and ensure equitable access to services (Room, 2005; Kapoor et al., 2021; NIDA, 2022).
 
-**Conclusion**
+**12. Conclusion**
 
 Addiction is a chronic, relapsing condition influenced by biological, psychological, and social factors. Once viewed as a moral failing, it is now recognized as a brain disorder that affects reward and control systems. Whether substance-related or behavioural, addictions share core characteristics such as impaired control and persistence despite harm. Global and Sri Lankan data highlight its growing prevalence and link to broader social inequalities. Effective responses must combine neuroscience, psychological care, prevention strategies, and stigma reduction within a comprehensive biopsychosocial framework to support recovery and public health.
 
-**References**
+**13. References**
 
 Ali, A. A. (2021). Behavioral addictions: Legal risks and therapeutic implications. *International Journal of Mental Health and Addiction, 19*(3), 712--726. <https://doi.org/10.1007/s11469-020-00295-0>
 
@@ -293,6 +342,8 @@ Olsen, C. M. (2021). History of addiction and its treatment. *The American Journ
 Rehm, J., Mathers, C., Popova, S., Thavorncharoensap, M., Teerawattananon, Y., & Patra, J. (2009). Global burden of disease and injury and economic cost attributable to alcohol use and alcohol-use disorders. *The Lancet, 373*(9682), 2223--2233. https://doi.org/10.1016/S0140-6736(09)60746-7
 
 Room, R. (2005). Stigma, social inequality, and alcohol and drug use. *Drug and Alcohol Review, 24*(2), 143--155. <https://doi.org/10.1080/09595230500102434>
+
+Rose, S. (2023, April). *The Four C's of Addiction*. Steve Rose PhD. Retrieved June 21, 2025, from <https://steverosephd.com/the-four-cs-of-addiction/>
 
 Samer El Hayek, S., Bizri, M., & Malas, N. (2024). Historical shifts in addiction perception: From crime to care. *International Journal of Mental Health and Addiction*. Advance online publication. <https://doi.org/10.1007/s11469-024-01002-7>
 
