@@ -52,7 +52,8 @@ iv. Continued use despite negative consequences, such as physical, psychological
 
 These features show that addiction is long-lasting, hard to control, and often harmful, which is why it is seen as both a medical and psychological condition. Recognizing these signs helps tell the difference between true addiction and casual or occasional use, leading to better diagnosis and treatment.
 
-**3. CONCEPTUAL CLARIFICATION: Substance Use, Misuse, and Abuse**
+**3. CONCEPTUAL CLARIFICATION: Substance Use, Misuse, and Abuse**<br>
+
 It is also important to understand related terms like substance use, misuse, and abuse to better explain the range of behaviours linked to addiction:
 
 1.  Use refers to the consumption of substances in a socially accepted or non-problematic manner, often for recreational or medicinal purposes.
@@ -215,7 +216,7 @@ Overall, addiction is not caused by a singular issue but emerges through the con
 Effective prevention of addiction occurs at three main levels: 
 
 **Primary Prevention**
-primary, secondary, and tertiary. Primary prevention aims to stop substance use before it begins by focusing on the general population, especially individuals who have not yet experimented with or initiated the use of psychoactive substances. Strategies include school-based education, public awareness campaigns, and youth-focused programs that build coping skills, resilience, and healthy decision-making (UNODC, 2023; WHO, 2010).
+Primary prevention aims to stop substance use before it begins by focusing on the general population, especially individuals who have not yet experimented with or initiated the use of psychoactive substances. Strategies include school-based education, public awareness campaigns, and youth-focused programs that build coping skills, resilience, and healthy decision-making (UNODC, 2023; WHO, 2010).
 
 **Secondary Prevention**
 Secondary prevention focuses on individuals at higher risk, such as those with a family history of addiction or early signs of substance use. Screening tools such as the Alcohol Use Disorders Identification Test (AUDIT), the CRAFFT questionnaire, and the Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST) help detect early risk. These tools are commonly followed by brief counselling sessions or early support interventions to prevent progression to addiction (Babor et al., 2001; Knight et al., 2002; WHO, 2010).
