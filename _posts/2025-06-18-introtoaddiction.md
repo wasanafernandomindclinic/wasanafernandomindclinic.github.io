@@ -6,7 +6,7 @@ tags: [blog, Psychology, MentalHealth, Addiction, Depression, MoodDisorders, Sub
 author: Wasana Fernando
 ---
 
-**Wasana Fernando¹, Arosha Rajapakse¹, Vijayashanthi Kathiravel¹, Pathmasri Sivalingam ¹,** <br>
+**Wasana Fernando, Arosha Rajapakse, Vijayashanthi Kathiravel, Pathmasri Sivalingam,** <br>
 Trainee Clinical Psychologists, MPhil in Clinical Psychology Candidates, <br>
 Faculty of Graduate Studies, University of Colombo, Sri Lanka (2025) <br>
 
