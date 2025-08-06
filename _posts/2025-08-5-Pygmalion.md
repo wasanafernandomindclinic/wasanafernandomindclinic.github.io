@@ -90,7 +90,7 @@ When someone sees the best in us, it makes us want to become our best. And when 
 So whether you're a teacher, therapist, friend, parent, leader, or just someone trying to be kind — your words and expectations carry weight.
 
 Believe in someone today.
-You never know — that quiet “you can do this” might be the spark they’ve been waiting for.
+You never know — that quiet “you can do this” might be the spark they’ve been waiting for..
 
 ----
 
