@@ -1,3 +1,4 @@
+---
 title: Why Supervision Is Essential in Clinical Psychology Training : A Guide for Clinical Psychology Students and Trainees 
 date: 2026-02-21
 categories: [Blogging, ClinicalPsychology]
@@ -5,7 +6,7 @@ tags: [blog, Psychology, trainee, clincial psychologists, supervision, supervise
 author: Wasana Fernando
 ---
 
-![Desktop View](assets/487722643.jpg)
+![Desktop View](assets/asas.png)
 
 
 <div style="display: flex; align-items: center;">
