@@ -1,5 +1,5 @@
 ---
-title: Why Supervision Is Essential in Clinical Psychology Training : A Guide for Clinical Psychology Students and Trainees 
+title: Why Supervision Is Essential in Clinical Psychology Training - A Guide for Clinical Psychology Students and Trainees 
 date: 2026-02-21
 categories: [Blogging, ClinicalPsychology]
 tags: [blog, Psychology, trainee, clincial psychologists, supervision, supervisee]
