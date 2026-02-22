@@ -9,6 +9,13 @@ author: Wasana Fernando
 
 ![Desktop View](assets/1704791862403.jpg)
 
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/wasana-fernando-37870295/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQFyAlQ3LhNkmw/profile-displayphoto-scale_400_400/B56ZxwLwB0KgAg-/0/1771408656772?e=1773273600&v=beta&t=4HIJAiWBD0Ylh9klXs-yhKD_eZwPEkBITuTgxWCkz8k" alt="Wasana Fernando" width="50" height="50" style="border-radius: 50%; margin-right: 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/wasana-fernando-37870295/" target="_blank" style="font-weight: bold;">Wasana Fernando</a>
+</div>
+
 Unlocking Mental Well-being: The Indispensable Role of "Clinical Psychologists" in Sri Lanka.
 
 Introduction:
