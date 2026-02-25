@@ -21,10 +21,7 @@ From Theory to Practice: Why Supervision Is Essential in Clinical Psychology Tra
 
 Entering clinical psychology training is both exciting and humbling. You are introduced to evidence-based models, structured formulations, measurable outcomes, and ethical frameworks. Everything appears systematic and clear.
 
-Then you meet your first real client. And you realize --- therapy is not linear. This is where supervision becomes indispensable. Then you meet your first real client. And you realize --- therapy is not linear.
-
-This is where supervision becomes indispensable.
-
+Then you meet your first real client. And you realize --- therapy is not linear. This is where supervision becomes indispensable. 
 
 This article aims to help new students and clinical psychology trainees understand:
 
