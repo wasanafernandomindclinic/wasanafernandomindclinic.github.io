@@ -111,7 +111,7 @@ Being Mode involves:
 
 -   Emotional presence
 -   Tolerating silence and ambiguity
--   Reflecting before intervening
+-   Reflecting before, during, and after intervening
 -   Attuning to relational patterns
 -   Integrating thought and feeling
 
