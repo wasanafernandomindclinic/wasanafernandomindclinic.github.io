@@ -117,8 +117,7 @@ Being Mode involves:
 
 Supervision becomes the space where trainees learn to balance these two modes.
 
-Too much Doing can lead to rigidity, weakened emotional connection and rapport with the cleint. , increasinf likelihood of therapeutic raptures and premature therapy discontinuation.\
-Coversively, too much Being, overreliance without suffienet structure can results in therapeutic drift, boundary difficulties, and long term comassion fatigue due to overcommitment. 
+Excessive focus on doing can lead to rigidity, reduced emotional connection, and weakened rapport with the client, thereby increasing the risk of therapeutic ruptures and premature discontinuation. Conversely, excessive emphasis on being, without adequate structure, may result in therapeutic drift, boundary challenges, and long-term compassion fatigue due to overinvolvement.
 
 Clinical maturity lies in the balance and intentional integration of both modes in appropriate proportions.
 
@@ -175,7 +174,7 @@ Effective supervisors create psychological safety.
 They offer honest yet compassionate feedback.\
 They explore blind spots without humiliation.\
 They support autonomy while maintaining accountability.\
-They allow supervisee to openly discuss uncertainties, mistakes, counstertranference and emoitonal reactions without shame, guilt or fear of judgement. 
+They create a safe space for supervisees to openly discuss uncertainties, mistakes, countertransference, and emotional reactions without shame, guilt, or fear of judgment. 
 
 They hold two minds in mind --- the client's and the trainee's. Their role is not to produce perfection. It is to cultivate reflective capacity.
 
