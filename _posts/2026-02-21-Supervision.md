@@ -117,10 +117,10 @@ Being Mode involves:
 
 Supervision becomes the space where trainees learn to balance these two modes.
 
-Too much Doing can lead to rigidity.\
-Too much Being without structure can create drift.
+Too much Doing can lead to rigidity, weakened emotional connection and rapport with the cleint. , increasinf likelihood of therapeutic raptures and premature therapy discontinuation.\
+Coversively, too much Being, overreliance without suffienet structure can results in therapeutic drift, boundary difficulties, and long term comassion fatigue due to overcommitment. 
 
-Clinical maturity lies in integration.
+Clinical maturity lies in the balance and intentional integration of both modes in appropriate proportions.
 
 Countertransference: From Vulnerability to Insight
 =====================================================
@@ -162,7 +162,7 @@ Rupture becomes growth.
 The Supervisor's Role
 ========================
 
-Supervisors balance multiple responsibilities.
+Supervisors balance multiple responsibilities, including client safety, supervisee development, ethical practice, and instutional expectations.
 
 According to supervision models, supervision includes:
 
@@ -174,7 +174,8 @@ Effective supervisors create psychological safety.
 
 They offer honest yet compassionate feedback.\
 They explore blind spots without humiliation.\
-They support autonomy while maintaining accountability.
+They support autonomy while maintaining accountability.\
+They allow supervisee to openly discuss uncertainties, mistakes, counstertranference and emoitonal reactions without shame, guilt or fear of judgement. 
 
 They hold two minds in mind --- the client's and the trainee's. Their role is not to produce perfection. It is to cultivate reflective capacity.
 
@@ -211,3 +212,7 @@ It turns technique into meaningful connection.
 
 And that is what sustains ethical, culturally responsive, and deeply human clinical work.
 
+
+
+Special Note:
+This reflections shared here based on my personal theoritical, observational and expirential learning. This process has supported my gradual developement in clicnial competence, reflective capacity and undertsnading of therapeutic work. However, its applicability may depend on multiple factors. 
