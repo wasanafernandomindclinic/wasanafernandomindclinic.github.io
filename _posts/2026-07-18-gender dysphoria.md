@@ -1,5 +1,5 @@
 ---
-title: When Values Reveal Core Beliefs: A Gender-Affirming, Trauma-Informed Reflection on ACT Values Clarification and the Downward Arrow Technique
+title: When Values Reveal Core Beliefs - A Gender-Affirming, Trauma-Informed Reflection on ACT Values Clarification and the Downward Arrow Technique
 date: 2026-07-18
 categories: [Blogging, ClinicalPsychology]
 tags: [blog, Psychology, clincial psychologists, gender dysphoria, trauma informed care, affirmative therapy, ACT]
